@@ -25,7 +25,7 @@ projects:
   exclude:
     forks: false
     projects:
-    # - repo-name
+           hamidrezaamz.github.io
 
 social_media:
   # behance: your_username
